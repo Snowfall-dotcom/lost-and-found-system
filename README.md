@@ -1,4 +1,4 @@
-# Lost & Found System — Backend
+# Lost & Found System - Backend
 
 Node.js/Express + MongoDB (Mongoose) API for the NU Manila Lost & Found System. Implements every core feature (section 5) from the team's feature guide: item reporting, search/browse, claim verification, notifications, the admin system, profiles, and messaging.
 
